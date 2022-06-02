@@ -3,4 +3,5 @@
 
 - **0-preprocessor** : This script runs a C file through the preprocessor and saves the result into another file. The C file name will be saved in the variable $CFILE.
 - **1-compiler** : This script compiles a C file but does not link it. The C file name will be saved in the variable $CFILE.
--
+- **2-assembler** : This script generates the assembly code of a C code and saves it in an output file.
+
