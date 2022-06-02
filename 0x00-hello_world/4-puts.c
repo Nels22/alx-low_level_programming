@@ -1,12 +1,14 @@
 #include<stdio.h>
-#include<string.h>
+/**
+ *
+ *  * main - Entry point
+ *
+ *   *
+ *
+ *    * Return: Always 0 (Success)
+  */
 int main(void)
-/*Main function; This is the starting point of this program's execution.*/
 {
-/*Initialize str variable*/
-	char str[]="\"Programming is like building a multilingual puzzle\n";
-
-	puts(str);
-/*Return : Always 0 (Program executed successfully)*/
+	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
 }
