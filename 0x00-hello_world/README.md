@@ -5,5 +5,6 @@
 - **1-compiler** : This script compiles a C file but does not link it. The C file name will be saved in the variable $CFILE.
 - **2-assembler** : This script generates the assembly code of a C code and saves it in an output file.
 - **3-name** : This script compiles a C file and creates an executable named cisfun.The C file name will be saved in the variable $CFILE.
-
 - **4-puts.c** :This C program prints *"Programming is like building a multilingual puzzle.*
+- **5-printf.c** : This program prints exactly *with proper grammar, but the outcome is a piece of art*.
+
