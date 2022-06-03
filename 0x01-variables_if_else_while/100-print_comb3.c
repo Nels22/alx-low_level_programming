@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - This program prints all possible 
+ * main - This program prints all possible
  * different combinations of single-digit numbers
  * Numbers separated by , followed by space
  * Numbers printed in ascending order
