@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - This program prints all possible different combinations of single-digit numbers
+ * main - This program prints all possible 
+ * different combinations of single-digit numbers
  * Numbers separated by , followed by space
  * Numbers printed in ascending order
  * Return: Always (0)
@@ -8,6 +9,7 @@
 int main(void)
 {
 	int digit1, digit2;
+
 	for (digit1 = 0; digit1 < 9; digit1++)
 	{
 		for (digit2 = digit1 + 1; digit2 < 10; digit2++)
