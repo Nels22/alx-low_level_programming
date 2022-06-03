@@ -3,16 +3,17 @@
 #include<stdio.h>                                    
 /**                                                  
  *
- * main - Prints all alphabets except q and e
+ * main - Prints all lowercase alphabets except q and e
  *
- * Return: Always 0 (Success)     
- *                                                  
- **/                                                 
-int main(void)                                       
+ * Return: Always 0 (Success)
+ *                                                 
+ **/
+int main(void)
 {
-/*Declaration of variables*/     
+/*eclaration of variables*/
 	char alph[24] = "abcdfghijklmnoprstuvwxyz";
-       	int i;
+	int i;
+	
 	for (i = 0; i < 24 ; i++)
 	{
 		putchar(alph[i]);
