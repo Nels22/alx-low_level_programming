@@ -5,12 +5,14 @@
  * main - Determines if number is greater than 5, less than 6 or is 0
  *
  * Return: Always 0 (Success)
+ *
  * */
 
 int main(void)
 {
 /*Declaration of variables*/
 	int n, l;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	l = n % 10;
