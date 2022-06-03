@@ -2,11 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *
- * This program will assign a random number to the variable n each time it is executed. 
+ * main -This program will assign a random number to the variable n each time it is executed. 
  * The main function determines if a number is -ve, 0 or +ve
- * Return : Always 0 (output is success)
- *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
