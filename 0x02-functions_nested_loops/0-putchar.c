@@ -8,7 +8,5 @@
 int _putchar(char x)
 {
 	/*initialize variable*/
-	x = "_puttchar ";
-
 	return (write(1, &x, 1));
 }
