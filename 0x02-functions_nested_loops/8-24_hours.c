@@ -4,13 +4,14 @@
  * of Jack Bauer, starting from 00:00 to 23:59
  * Return: Always 0 (Success)
  *
- * */
+ **/
 
 void jack_bauer(void)
 
 {
 	int a, b, c, d;
 	int i, j;
+
 	for (i = 0; i <= 23; i++)
 	{
 		for (j = 0; j <= 59; j++)
