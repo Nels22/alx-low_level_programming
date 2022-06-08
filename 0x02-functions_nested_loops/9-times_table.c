@@ -10,7 +10,7 @@ void times_table(void)
 
 	for (x = 0; x < 10; x++)
 	{
-		for (y = 0; y <10; y++)
+		for (y = 0; y < 10; y++)
 		{
 			a = (x * y) / 10;
 			b = (x * y) % 10;
@@ -28,7 +28,7 @@ void times_table(void)
 			/* Add an extra space if printing single digits */
 			if (y == 9 && x == 0)
 				break;
-			else if (x * (y+1) < 10)
+			else if (x * (y + 1) < 10)
 				_putchar(' ');
 		}
 		_putchar('\n');
