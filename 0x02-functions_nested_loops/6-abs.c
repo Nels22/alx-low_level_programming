@@ -7,7 +7,7 @@
  *
  * Return: an integer which is the absolute value of n
  *
- *      */
+ **/
 
 int _abs(int n)
 
