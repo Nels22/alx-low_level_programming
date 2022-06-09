@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * mul - multiplies 2 integers.
- * @a is first parameter.
- * @b is second parameter.
+ * @a: First parameter.
+ * @b: Second parameter.
  * Return: 0 (Success)
  */
 
