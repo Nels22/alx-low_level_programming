@@ -4,18 +4,17 @@
  * followed by a new line.
  * @s: The string to be reversed.
  */
-void print_rev(char *str)
+void print_rev(char *s)
 {
 	int i;
 
 	while (i >= 0)
 	{
-		if (str[i] == '\0')
-		{
-			_putchar('\n');
+		if (s[i] == '\0')
 			break;
-		}
-	_putchar(str[i]);
-	i++;
+		i++;
 	}
+	for (i--; i >= 0; i++)
+		_putchar(s[i]);
+	_putchar('\n');
 }
