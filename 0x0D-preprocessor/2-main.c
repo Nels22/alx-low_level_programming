@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-	printf("Name of Source File: %s\n", _FILE_);
+	printf("Name of Source File: %s\n", __FILE__);
 	return (0);
 }
