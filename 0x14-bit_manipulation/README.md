@@ -1,4 +1,4 @@
-** ALX SE : Low Level Programming. **
+**ALX SE : Low Level Programming**
 
 ## 0x14-bit_manipulation ##
 
