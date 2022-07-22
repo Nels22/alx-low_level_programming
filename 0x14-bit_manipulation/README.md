@@ -18,7 +18,7 @@ their application in solving problems.
         <td> <a href = "https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/1-print_binary.c">1-print_binary.c</a> </td>
        <td>Prints the binary representation of a number. </td> 
   </tr>   
-    <tr> <td> 2.10></td>    
+    <tr> <td> 2.10</td>    
        <td> <a href = "https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/2-get_bit.c">2-get_bit.c</a> </td>
        <td>Returns the value of a bit at a given index. </td> 
   </tr>
