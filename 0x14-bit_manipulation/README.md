@@ -2,12 +2,14 @@
 
 In this project tasks, I undertook to solve problems involving manipulation of bits and 
 their application in solving problems.
+<table>
 <tr> <td><a href ="https://github.com/Nels22/alx-low_level_programming/tree/master/0x14-bit_manipulation/test_files">test_files </a> </td>
       <td>Test cases provided in the task questions </td>
  </tr>
+      </table>
  
 <table>
-  <tr> <td><b><Task> </td> <td> <b> File Name </td> <td> <b> Description of Function  </td> </tr>
+  <tr> <td> <b> Task </td> <td> <b> File Name </td> <td> <b> Description of Function  </td> </tr>
     <tr> <td> 0.0 </td>
        <td> <a href = "https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c">0-binary_to_uint.c</a> </td>
        <td>Converts a binary number to an unsigned int </td> 
