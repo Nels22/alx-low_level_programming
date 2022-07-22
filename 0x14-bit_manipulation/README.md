@@ -20,12 +20,12 @@ their application in solving problems.
   <tr> <td> <a href = "https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/4-clear_bit.c">4-clear_bit.c</a> </td>
        <td>Sets the value of a bit to 0 at a given index. </td> 
   </tr>
-  <tr> <td> <a href = "https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/4-clear_bit.c">5-flip_bits.c</a> </td>
+  <tr> <td> <a href = "https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/5-flip_bits.c">5-flip_bits.c</a> </td>
        <td> Returns the number of bits you would need to flip to get from one number to another. </td> 
   </tr>
-   <tr> <td> <a href = "https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/4-clear_bit.c">100-get_endianness.c</a> </td>
+   <tr> <td> <a href = "https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/100-get_endianness.c">100-get_endianness.c</a> </td>
        <td> Checks the endianness. </td> 
   </tr>
-   <tr> <td> <a href ="https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/4-clear_bit.c">101-password</a> </td>
+   <tr> <td> <a href ="https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/101-password">101-password</a> </td>
        <td> Find the password for <a href = "https://github.com/holbertonschool/0x13.c"> this program </a>. </td> 
   </tr>
