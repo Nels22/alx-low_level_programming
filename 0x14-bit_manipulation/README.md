@@ -5,7 +5,7 @@ their application in solving problems.
 
 <table>
   <tr> <td> <b> File Name </td> <td> <b> Description of Function  </td> </tr>
-  <tr> <td> <ul> <a href ="https://github.com/Nels22/alx-low_level_programming/tree/master/0x14-bit_manipulation/test_files">test_files </a> </td>
+  <tr> <td> <ul = "disc"> <a href ="https://github.com/Nels22/alx-low_level_programming/tree/master/0x14-bit_manipulation/test_files">test_files </a> </td>
       <td>Test cases provided in the task questions </td>
   </tr>
   <tr> <td> <a href = "https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/0-binary_to_uint.c">0-binary_to_uint.c</a> </td>
