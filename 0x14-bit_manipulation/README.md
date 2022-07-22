@@ -27,5 +27,5 @@ their application in solving problems.
        <td> Checks the endianness. </td> 
   </tr>
    <tr> <td> <a href ="https://github.com/Nels22/alx-low_level_programming/blob/master/0x14-bit_manipulation/4-clear_bit.c"></a> 101-password </td>
-       <td> Find the password for <a href = https://github.com/holbertonschool/0x13.c"> this program </a>. </td> 
+       <td> Find the password for <a href = "https://github.com/holbertonschool/0x13.c"> this program </a>. </td> 
   </tr>
