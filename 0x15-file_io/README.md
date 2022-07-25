@@ -10,9 +10,8 @@ The concepts applied in this project tasks focus on system calls, file descripto
            <td> <b> File Name </td> 
            <td> <b> Description of Function </td> 
       </tr>
-
-      <tr><td> 0.Tread lightly, she is near </td>
-          <td> <a href = "https://github.com/Nels22/alx-low_level_programming/blob/master/0x15-file_io/0-read_textfile.c">0-read_textfile.c </a></td>
+      <tr><td> 0. Tread lightly, she is near </td>
+          <td> <a href ="https://github.com/Nels22/alx-low_level_programming/blob/master/0x15-file_io/0-read_textfile.c">0-read_textfile.c </a></td>
           <td>Function reads a text file and prints it to the POSIX standard output.</td>
       </tr>
 </table>
