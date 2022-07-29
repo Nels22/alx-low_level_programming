@@ -28,7 +28,7 @@ void check_elf(unsigned char *e_ident)
 
 	for (index = 0; index < 4; index++)
 	{
-		if (e_inent[index] != 127 &&
+		if (e_ident[index] != 127 &&
 				e_ident[index] != 'E' &&
 				e_ident[index] != 'L' &&
 				e_ident[index] != 'F')
@@ -124,7 +124,7 @@ void print_version(unsigned char *e_ident)
 	switch (e_ident[EI_VERSION])
 	{
 		case EV_CURRENT:
-			print(" (current)\n");
+			printf(" (current)\n");
 			break;
 		default:
 			printf("\n");
@@ -164,7 +164,7 @@ void print_osabi(unsigned char *e_ident)
 			printf("UNIX - FreeBSD\n");
 			break;
 		case ELFOSABI_TRU64:
-			print("UNIX - TRU64\n");
+			printf("UNIX - TRU64\n");
 			break;
 		case ELFOSABI_ARM:
 			printf("ARM\n");
@@ -202,7 +202,7 @@ void print_type(unsigned int e_type, unsigned char *e_ident)
 	switch (e_type)
 	{
 		case ET_NONE:
-			print("NONE (None)\n");
+			printf("NONE (None)\n");
 			break;
 		case ET_REL:
 			printf("REL (Relocatable file)\n");
@@ -294,7 +294,7 @@ int main(int __attribute__((__unused__)) argc, char *argv[])
 	{
 		free(header);
 		close_elf(0);
-		dprint(STDERR_FILENO, "Error: `%s`: No such file\n", argv[1]);
+		dprintf(STDERR_FILENO, "Error: `%s`: No such file\n", argv[1]);
 		exit(98);
 	}
 
